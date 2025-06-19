@@ -1,0 +1,11 @@
+numpy
+pyautogui
+pyttsx3
+pytesseract
+sounddevice
+pillow          # PIL fork
+scipy
+beautifulsoup4  # provides bs4
+requests
+SpeechRecognition
+openai
